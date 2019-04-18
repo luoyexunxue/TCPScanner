@@ -1,5 +1,5 @@
 # TCPScanner
 TCP scanner, you can use it to scan opening ip and port
 
-usage like this:
+you can use this program like this:
 ![usage](screenshot.png)
